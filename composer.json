@@ -1,0 +1,22 @@
+{
+  "name": "beansir/newx-helper",
+  "description": "A rich help tool",
+  "keywords": ["newx", "help", "tool"],
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "bean",
+      "email": "1052049021@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "newx\\helpers\\": ""
+    }
+  },
+  "minimum-stability": "stable"
+}
